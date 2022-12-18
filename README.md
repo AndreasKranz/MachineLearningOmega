@@ -15,8 +15,10 @@ The oversampled data set is split into the train set "train_oversampled.csv" and
 ## Choosing the right model
 Please Follow these steps to reach the results:
 
-1. Open Models.ipynb
+1. Open Models.ipynb with IDE
 
 2. Adjust file path in for three data: (finalalDataSet.csv, test_set, tain_oversampled)
 
 3. Run all code cell to see the results. 
+
+*The code was written in python. We recommend using python 3.10 for the correct functioning of the code. We also recommend using the PyCharm integrated development environment (IDE), as the code has been developed in this IDE.
