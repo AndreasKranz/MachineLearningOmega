@@ -17,9 +17,6 @@ Please Follow these steps to reach the results:
 
 1. Open Models.ipynb
 
-2. Adjust file path in for three data:
--finalalDataSet.csv
--test_set
--tain_oversampled
+2. Adjust file path in for three data: (finalalDataSet.csv, test_set, tain_oversampled)
 
 3. Run all code cell to see the results. 
